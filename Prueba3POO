@@ -1,0 +1,46 @@
+[
+ {
+  "run": "14141414-9",
+  "nombre": "Pablo",
+  "apellido": "Jeldres",
+  "direccion": "Inacap",
+  "fono": 14141414,
+  "correo": "correo@correo.cl",
+  "montoCredito": 505050,
+  "deuda": 606060,
+  "tipo": 3
+ },
+ {
+  "run": "20202020-5",
+  "nombre": "Ana",
+  "apellido": "Muñoz",
+  "direccion": "Calle Los Aromos 456",
+  "fono": 20202020,
+  "correo": "ana.munoz@mail.com",
+  "montoCredito": 300000,
+  "deuda": 150000,
+  "tipo": 1
+ },
+ {
+  "run": "18181818-K",
+  "nombre": "Carlos",
+  "apellido": "Torres",
+  "direccion": "Av. Central 1234",
+  "fono": 18181818,
+  "correo": "carlos.torres@mail.com",
+  "montoCredito": 450000,
+  "deuda": 200000,
+  "tipo": 2
+ },
+ {
+  "run": "10101010-3",
+  "nombre": "María",
+  "apellido": "López",
+  "direccion": "Pasaje del Sol 789",
+  "fono": 10101010,
+  "correo": "maria.lopez@mail.com",
+  "montoCredito": 700000,
+  "deuda": 350000,
+  "tipo": 4
+ }
+]
