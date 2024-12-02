@@ -1,160 +1,156 @@
 [
- {
-  "run": "14141414-9",
-  "nombre": "Pablo",
-  "apellido": "Jeldres",
-  "direccion": "Camino Troncal 5955",
-  "fono": 14141414,
-  "correo": "pjeldres@correo.cl",
-  "montoCredito": 505050,
-  "deuda": 606060,
-  "tipo": 3
- },
- {
-  "run": "20202020-5",
-  "nombre": "Ana",
-  "apellido": "Aravena",
-  "direccion": "Calle Los Aromos 456",
-  "fono": 20202020,
-  "correo": "a.aravena@mail.com",
-  "montoCredito": 300000,
-  "deuda": 150000,
-  "tipo": 1
- },
- {
-  "run": "18181818-K",
-  "nombre": "Carlos",
-  "apellido": "Aravena",
-  "direccion": "Av. Central 1234",
-  "fono": 18181818,
-  "correo": "caravena@mail.com",
-  "montoCredito": 450000,
-  "deuda": 200000,
-  "tipo": 2
- },
- {
-  "run": "10101010-3",
-  "nombre": "María",
-  "apellido": "Urra",
-  "direccion": "Pasaje del Sol 789",
-  "fono": 10101010,
-  "correo": "m.urra@mail.com",
-  "montoCredito": 700000,
-  "deuda": 350000,
-  "tipo": 4
- }
+  {
+    "run": "14141414-9",
+    "nombre": "Pablo",
+    "apellido": "Jeldres",
+    "direccion": "Camino Troncal 5955",
+    "fono": 14141414,
+    "correo": "pjeldres@correo.cl",
+    "montoCredito": 505050,
+    "deuda": 606060,
+    "tipo": 3
+  },
+  {
+    "run": "20202020-5",
+    "nombre": "Ana",
+    "apellido": "Aravena",
+    "direccion": "Calle Los Aromos 456",
+    "fono": 20202020,
+    "correo": "a.aravena@mail.com",
+    "montoCredito": 300000,
+    "deuda": 150000,
+    "tipo": 1
+  },
+  {
+    "run": "18181818-K",
+    "nombre": "Carlos",
+    "apellido": "Aravena",
+    "direccion": "Av. Central 1234",
+    "fono": 18181818,
+    "correo": "caravena@mail.com",
+    "montoCredito": 450000,
+    "deuda": 200000,
+    "tipo": 2
+  },
+  {
+    "run": "10101010-3",
+    "nombre": "María",
+    "apellido": "Urra",
+    "direccion": "Pasaje del Sol 789",
+    "fono": 10101010,
+    "correo": "m.urra@mail.com",
+    "montoCredito": 700000,
+    "deuda": 350000,
+    "tipo": 4
+  },
+  {
+    "run": "15151515-6",
+    "nombre": "Kimi",
+    "apellido": "Jeldres",
+    "direccion": "Calle del Bosque 432",
+    "fono": 15151515,
+    "correo": "k.jeldres@mail.com",
+    "montoCredito": 250000,
+    "deuda": 125000,
+    "tipo": 2
+  },
+  {
+    "run": "12121212-8",
+    "nombre": "Jorge",
+    "apellido": "Santis",
+    "direccion": "Av. Libertad 567",
+    "fono": 12121212,
+    "correo": "jorge.santis@mail.com",
+    "montoCredito": 800000,
+    "deuda": 700000,
+    "tipo": 3
+  },
+  {
+    "run": "17171717-2",
+    "nombre": "Camila",
+    "apellido": "González",
+    "direccion": "Pasaje Luna 101",
+    "fono": 17171717,
+    "correo": "camila.gonzalez@mail.com",
+    "montoCredito": 600000,
+    "deuda": 300000,
+    "tipo": 1
+  },
+  {
+    "run": "23232323-9",
+    "nombre": "Luis",
+    "apellido": "Santis",
+    "direccion": "Camino Real 303",
+    "fono": 23232323,
+    "correo": "luis.santis@mail.com",
+    "montoCredito": 1000000,
+    "deuda": 850000,
+    "tipo": 4
+  },
+  {
+    "run": "19191919-7",
+    "nombre": "Elena",
+    "apellido": "Caffarena",
+    "direccion": "Av. Pacífico 345",
+    "fono": 19191919,
+    "correo": "elena.caffa@mail.com",
+    "montoCredito": 500000,
+    "deuda": 250000,
+    "tipo": 2
+  },
+  {
+    "run": "13131313-4",
+    "nombre": "Diego",
+    "apellido": "Sanchez",
+    "direccion": "Calle Norte 980",
+    "fono": 13131313,
+    "correo": "diego.sanchez@mail.com",
+    "montoCredito": 700000,
+    "deuda": 400000,
+    "tipo": 3
+  },
+  {
+    "run": "24242424-5",
+    "nombre": "Paula",
+    "apellido": "Payacan",
+    "direccion": "Camino del Este 678",
+    "fono": 24242424,
+    "correo": "paula.payacan@mail.com",
+    "montoCredito": 450000,
+    "deuda": 200000,
+    "tipo": 1
+  },
+  {
+    "run": "16161616-1",
+    "nombre": "Ricardo",
+    "apellido": "Venegas",
+    "direccion": "Av. Principal 202",
+    "fono": 16161616,
+    "correo": "ricardo.venegas@mail.com",
+    "montoCredito": 950000,
+    "deuda": 750000,
+    "tipo": 4
+  },
+  {
+    "run": "11111111-K",
+    "nombre": "Andrea",
+    "apellido": "Colombo",
+    "direccion": "Calle Sur 456",
+    "fono": 11111111,
+    "correo": "andrea.colombo@mail.com",
+    "montoCredito": 400000,
+    "deuda": 150000,
+    "tipo": 2
+  },
+  {
+    "run": "20202020-0",
+    "nombre": "Manuel",
+    "apellido": "Sepulveda",
+    "direccion": "Pasaje Olivos 789",
+    "fono": 20202020,
+    "correo": "manuel.sepulveda@mail.com",
+    "montoCredito": 550000,
+    "deuda": 300000,
+    "tipo": 3
+  }
 ]
-
-[
- {
-  "run": "15151515-6",
-  "nombre": "Kimi",
-  "apellido": "Jeldres",
-  "direccion": "Calle del Bosque 432",
-  "fono": 15151515,
-  "correo": "k.jeldres@mail.com",
-  "montoCredito": 250000,
-  "deuda": 125000,
-  "tipo": 2
- },
- {
-  "run": "12121212-8",
-  "nombre": "Jorge",
-  "apellido": "Santis",
-  "direccion": "Av. Libertad 567",
-  "fono": 12121212,
-  "correo": "jorge.santis@mail.com",
-  "montoCredito": 800000,
-  "deuda": 700000,
-  "tipo": 3
- },
- {
-  "run": "17171717-2",
-  "nombre": "Camila",
-  "apellido": "González",
-  "direccion": "Pasaje Luna 101",
-  "fono": 17171717,
-  "correo": "camila.gonzalez@mail.com",
-  "montoCredito": 600000,
-  "deuda": 300000,
-  "tipo": 1
- },
- {
-  "run": "23232323-9",
-  "nombre": "Luis",
-  "apellido": "Santis",
-  "direccion": "Camino Real 303",
-  "fono": 23232323,
-  "correo": "luis.santis@mail.com",
-  "montoCredito": 1000000,
-  "deuda": 850000,
-  "tipo": 4
- },
- {
-  "run": "19191919-7",
-  "nombre": "Elena",
-  "apellido": "Caffarena",
-  "direccion": "Av. Pacífico 345",
-  "fono": 19191919,
-  "correo": "elena.caffa@mail.com",
-  "montoCredito": 500000,
-  "deuda": 250000, 
-  "tipo": 2
- },
- {
-  "run": "13131313-4",
-  "nombre": "Diego",
-  "apellido": "Sanchez",
-  "direccion": "Calle Norte 980",
-  "fono": 13131313,
-  "correo": "diego.sanchez@mail.com",
-  "montoCredito": 700000,
-  "deuda": 400000,
-  "tipo": 3
- },
- {
-  "run": "24242424-5",
-  "nombre": "Paula",
-  "apellido": "Payacan",
-  "direccion": "Camino del Este 678",
-  "fono": 24242424,
-  "correo": "paula.payacan@mail.com",
-  "montoCredito": 450000,
-  "deuda": 200000,
-  "tipo": 1
- },
- {
-  "run": "16161616-1",
-  "nombre": "Ricardo",
-  "apellido": "Venegas",
-  "direccion": "Av. Principal 202",
-  "fono": 16161616,
-  "correo": "ricardo.venegas@mail.com",
-  "montoCredito": 950000,
-  "deuda": 750000,
-  "tipo": 4
- },
- {
-  "run": "11111111-K",
-  "nombre": "Andrea",
-  "apellido": "Colombo",
-  "direccion": "Calle Sur 456",
-  "fono": 11111111,
-  "correo": "andrea.colombo@mail.com",
-  "montoCredito": 400000,
-  "deuda": 150000,
-  "tipo": 2
- },
- {
-  "run": "20202020-0",
-  "nombre": "Manuel",
-  "apellido": "Sepulveda",
-  "direccion": "Pasaje Olivos 789",
-  "fono": 20202020,
-  "correo": "manuel.sepulveda@mail.com",
-  "montoCredito": 550000,
-  "deuda": 300000,
-  "tipo": 3
- }
-]
-
